@@ -1,5 +1,5 @@
 ---
-title: About Awa Brandon
+title: Introduction
 tags: Outreachy Zarr
 ---
 
@@ -7,8 +7,6 @@ This is a brief introduction of myself.
 
 <!--more-->
 ---
-![Image](/awa.jpg){:..border.rounded}
-
 I am Awa Brandon Awa (he/his) I am a Cameroonian, I am 23, I love basketball, video games and food!
 
 Currently learning front-end development
