@@ -45,9 +45,9 @@ My project focuses on creating tutorials for the easy access and usage of Zarr. 
 
 **Why is this project important;**
    1. Having Zarr tutorials which would serve as a good starting documentation for new contributors
-    2. Exhibit how easy it is to use Zarr and work with
-    3. Create tutorials which can be used by the community while presenting at various conferences, summits, meet-ups etc.
-    4. The tutorials would also serve as a solid foundation for further work
+   2. Exhibit how easy it is to use Zarr and work with
+   3. Create tutorials which can be used by the community while presenting at various conferences, summits, meet-ups etc.
+   4. The tutorials would also serve as a solid foundation for further work
 
 **What am I learning through this?**
 Working on this project helped me get exposure to real-world applications, collaboration of code, and interacting with the open-source community. In addition to learning the tools that are used to make and execute Zarr and its implemetations, I am also learning how to write more elaborate and understandable tutorials.
